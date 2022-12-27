@@ -13,7 +13,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 
 # variables
 API_ID = "10802796"
-API_HASH = "a92aed7d74654a563af4b07efbcd88e9"
+API_HASH = "191107910c6fbc576bff320d6f4e8d12"
 BOT_TOKEN = "5885677035:AAFFwI52ayU947kQvCmOBnvuj03AVOy208s"
 SESSION = "AQCU_vG3sJtMH_EcakQ3x8Xc8c5ciC9wn-9HNZJpq_LezV_y13fpHVMY6oTjNVNxnsRs2JqIfpCG06RVQQw1eLQ-gueof7rFaVhyYet9R2zesRAKKyoKRqdN-dAFEgq_TWuDjrOiu2_DyPQt8QtyJfUT8UzRGioBBxZGIzgKdpuJrNS-5-GzZuryF97J5ooVix8JblryDaBDvJteSvTm3d5nLvH19AKa0CweiupR1XBJT7hNAzwIRR9hrDWKhIOo7Q9BENOMef6DRCg7gahhDO8k2r4yG48bCEkuDwdcs5NluFfLMbbLA2XNPHzHwW9-UsAaib_1DMICe2YcsBa3lu1AAAAAAUZCL70A"
 FORCESUB = "contentbot13"
