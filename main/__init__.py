@@ -12,8 +12,8 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
                     level=logging.WARNING)
 
 # variables
-API_ID = "27547356"
-API_HASH = "9a5fa029f05c61096bf9fe89cc0f8862"
+API_ID = "21556392"
+API_HASH = "48469320efa1b110f1fda0f2d767521c"
 BOT_TOKEN = "6948559234:AAEz9BvD7gi1BGRlwN9Ifmz3N4aly0pdTDY"
 SESSION = "AQFI7KgAk1l5HhMc52bkMQgg_mAOVLpJDhpkvFWrDxN8ELcNglvOzTT6_P3f4ebwUsvgP9OEJpe-C06bb-1zsalwnrAXnB5OaPMkoRonScMfmML8tOLcUD9dDwgqM0DDjoXqAWR63xrllPy5fYNr-Uaglo3RJ18cO16PpaBdYaWir6StYxwCR8n-gr3ldj2arimRF49byPjqvkt1jhmjio3m99KFYRPU6eDS8MMzO4-iBlwOU356cgBg1o4WEdxu_24Pxm-NfY5yfHFi7n_oY6X3Fn0smeDO35XKsBKwMFc7kTETu756EkBv0Hbo_IoI21Ob7WWqp4bPnVbhrOr6kxEB88WqhQAAAAGD8GaJAA"
 FORCESUB = "Zoids_Robot"
